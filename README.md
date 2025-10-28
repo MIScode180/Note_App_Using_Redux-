@@ -7,6 +7,8 @@ Live Demo: (https://note-app-using-redux.vercel.app/)
 Note App is a simple yet powerful web application built with React + Redux Toolkit.
 It demonstrates how global state management works in Redux by allowing users to create, view, and delete notes — all managed from a single, centralized store.
 
+🧩 Tech Stack
+
 | Category             | Technology                                |
 | -------------------- | ----------------------------------------- |
 | **Frontend**         | React (Vite)                              |
@@ -16,6 +18,7 @@ It demonstrates how global state management works in Redux by allowing users to 
 | **HTTP Client**      | Axios *(if used for future data storage)* |
 | **Deployment**       | Vercel                                    |
 
+✨ Features
 
 | Feature                            | Description                                                  |
 | ---------------------------------- | ------------------------------------------------------------ |
