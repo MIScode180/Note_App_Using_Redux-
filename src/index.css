@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@font-face {
+    font-family: SF-pro-display;
+    src: url("../src/assets/font/SF-Pro-Display-Regular.otf");
+}
+
+@theme{
+    --font-sans: 'SF-pro-display', sans-serif;
+}   
